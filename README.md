@@ -1,2 +1,0 @@
-# wsl
-settings for wsl
