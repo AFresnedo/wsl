@@ -1,0 +1,15 @@
+# Blanket Ignore
+*
+
+# Files to Track
+!.bash_aliases
+!.bashrc
+!.zshrc
+!.gitignore
+
+# ...even if they are in subdirectories
+!*/
+
+# Files to track in Subfolders
+# !*/a/b/file1.txt
+# !*/a/b/c/*
